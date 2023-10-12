@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Daniel Benson Nkemdilim
-- (pronounced as Inn-Khem-Dee-lim)
+- 👋 Hi, I’m Daniel Benson Nkemdilim (pronounced as Inn-Khem-Dee-lim)
 
 - 🕊️ I am a Christian (Deal with it!)
 - 👀 I’m euthutiastic about Programming, AI, UI/UX, IoT
