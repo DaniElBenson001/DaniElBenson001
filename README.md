@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Javascipt, C# (Particularly .NET Core), and I hope to learn more technologies to make the best I can in the World
 - 💞️ I’m looking to collaborate on Open-Source Projects & pretty cool ideas that screams to be brought to reality
 - 📫 You can reach me via my gmail: danielnbenson@gmail.com
-- ✨ Fun Fact: I had a special chair in my room (when I was younger) called the "Thinking Chair" to think of fun and helpful ideas to save the World (Because I really liked Jimmy Neutron and TMNT)
+- ✨ Fun Fact: I had a special chair in my room (when I was younger) called the "Thinking Chair" to think of fun and helpful ideas to save the World (Because I really liked Jimmy Neutron, Phineas & Ferb, and TMNT)
 
 <!---
 DaniElBenson001/DaniElBenson001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
