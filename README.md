@@ -47,7 +47,7 @@ I’m an enthusiastic programmer with a passion for **AI**, **UI/UX**, **IoT**, 
 
 ### 📧 How to Reach Me
 - Gmail: **danielnbenson@gmail.com**
-- LinkedIn: [Daniel Benson](https://linkedin.com/in/danielbenson707)
+- LinkedIn: [Daniel Benson](https://linkedin.com/in/daniel-benson707)
 
 ---
 
