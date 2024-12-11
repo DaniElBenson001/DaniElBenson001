@@ -1,15 +1,53 @@
- - 👋 Hi, I’m Daniel Benson Nkemdilim (pronounced as Inn-Khem-Dee-lim)
+<h1 align="center">Hi there 👋, I’m Daniel Benson Nkemdilim</h1>
 
-- 🕊️ I am a Christian (Deal with it!)
-- 👀 I’m euthutiastic about Programming, AI, UI/UX, IoT
-- 👨🏿‍💻 I'm Proficient in HTML, CSS, JavaScript, C#
-- 😁 When you get to Know me, you may have a Liking to me!
-- 🌱 I’m currently learning Javascipt, C# (Particularly .NET Core), and I hope to learn more technologies to make the best I can in the World
-- 💞️ I’m looking to collaborate on Open-Source Projects & pretty cool ideas that screams to be brought to reality
-- 📫 You can reach me via my gmail: danielnbenson@gmail.com
-- ✨ Fun Fact: I had a special chair in my room (when I was younger) called the "Thinking Chair" to think of fun and helpful ideas to save the World (Because I really liked Jimmy Neutron, Phineas & Ferb, and TMNT)
+<p align="center">
+  <i>Pronounced as <b>Inn-Khem-Dee-lim</b></i>
+</p>
 
-<!---
-DaniElBenson001/DaniElBenson001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🙏 About Me
+I’m an enthusiastic programmer with a passion for **AI**, **UI/UX**, **IoT**, and building innovative solutions. I strive to make the world a better place, one line of code at a time. 🌍
+
+- 🕊️ **Faith**: I'm a Christian (Deal with it!)
+- 👨🏿‍💻 **Proficient in**: HTML, CSS, JavaScript, and C#.
+- 🌱 **Currently learning**: JavaScript, .NET Core, and exploring emerging technologies to enhance my skills.
+- 💞️ **Collaborating on**: Open-source projects and cool ideas screaming to be realized.
+- ✨ **Fun Fact**: As a kid, I had a "Thinking Chair" to brainstorm fun and world-saving ideas (inspired by Jimmy Neutron, Phineas & Ferb, and TMNT!).
+
+---
+
+### 🛠️ Languages and Tools
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40"/></a>
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=issues&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📧 How to Reach Me
+- Gmail: **danielnbenson@gmail.com**
+- LinkedIn: [Daniel Benson](https://linkedin.com/in/your-profile)
+
+---
+
+### 🎉 Random Tech Joke
+> What are computers' favorite snacks?  
+> Microchips, phish sticks, and cookies. But just a few bytes of each. 🤖
