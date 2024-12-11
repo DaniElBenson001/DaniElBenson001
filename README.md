@@ -10,7 +10,7 @@
 I’m an enthusiastic programmer with a passion for **AI**, **UI/UX**, **IoT**, and building innovative solutions. I strive to make the world a better place, one line of code at a time. 🌍
 
 - 🕊️ **Faith**: I'm a Christian
-- 👨🏿‍💻 **Proficient in**: HTML, CSS, JavaScript, and C#.
+- 👨🏿‍💻 **Proficient in**: HTML, CSS, Vanilla Javascript, React, NodeJS and .NET.
 - 🌱 **Currently learning**: JavaScript, .NET Core, and exploring emerging technologies to enhance my skills.
 - 💞️ **Collaborating on**: Open-source projects and cool ideas screaming to be realized.
 - ✨ **Fun Fact**: As a kid, I had a "Thinking Chair" to brainstorm fun and world-saving ideas (inspired by Jimmy Neutron, Phineas & Ferb, and TMNT!).
@@ -19,9 +19,12 @@ I’m an enthusiastic programmer with a passion for **AI**, **UI/UX**, **IoT**, 
 
 ### 🛠️ Languages and Tools
 <p align="left">
+  <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
   <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40"/></a>
 </p>
 
