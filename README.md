@@ -9,7 +9,7 @@
 ### 🙏 About Me
 I’m an enthusiastic programmer with a passion for **AI**, **UI/UX**, **IoT**, and building innovative solutions. I strive to make the world a better place, one line of code at a time. 🌍
 
-- 🕊️ **Faith**: I'm a Christian (Deal with it!)
+- 🕊️ **Faith**: I'm a Christian
 - 👨🏿‍💻 **Proficient in**: HTML, CSS, JavaScript, and C#.
 - 🌱 **Currently learning**: JavaScript, .NET Core, and exploring emerging technologies to enhance my skills.
 - 💞️ **Collaborating on**: Open-source projects and cool ideas screaming to be realized.
